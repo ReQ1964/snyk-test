@@ -1,5 +1,5 @@
 # Intentionally outdated dependencies for Snyk testing only.
 # Do not use these versions in production.
-Flask==0.12.2
+Flask==0.12.1
 PyYAML==5.3.1
 requests==2.19.1
