@@ -1,0 +1,2 @@
+"""Simple console calculator package."""
+
